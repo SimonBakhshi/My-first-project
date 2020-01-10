@@ -1,0 +1,50 @@
+body {background-color: black;}
+        p    { color: white;}
+        #myHeader   {
+            background-color: rgb(230, 220, 173);
+            color: black;
+            font-size: 400%;
+            font-style: oblique;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding: 20px;
+            text-align: center;
+            }
+        #secondHeader   {
+            color: rgb(0, 68, 255);
+            font-size: 200%;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+        #thirdHeader    {
+            color: rgb(0, 68, 255);
+            font-size: 200%;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+        h3   {
+            color: rgb(0, 68, 255);
+            font-size: 200%;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+        a:link     {
+            color:green;
+            background-color: transparent;
+            text-decoration: none;
+            }
+        a:visited   {
+            color:purple;
+            background-color: transparent;
+            text-decoration: none;
+            }
+        a:hover     {
+            color:red;
+            background-color: transparent;
+            text-decoration: none;
+            }
+        a:active    {
+            color:yellow;
+            background-color: transparent;
+            text-decoration: none;
+            }
+        ol  {
+            list-style:upper-alpha;
+            color: white;
+            }
